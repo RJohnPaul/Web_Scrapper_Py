@@ -3,7 +3,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/Event_Page_Starter/blob/c07e59f2d1706648a2cd7ba8906d6e06bfddbbd9/Frame%2017.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Web_Scrapper_Py/blob/70fe2d16a1d05ba439e18c64c7e1ed8470ed2593/Frame%2020.png" alt="Project Banner">
   </br>
 </div>
 
