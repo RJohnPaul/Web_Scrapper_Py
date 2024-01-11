@@ -1,5 +1,20 @@
 # Web Scraping App
 
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/Event_Page_Starter/blob/c07e59f2d1706648a2cd7ba8906d6e06bfddbbd9/Frame%2017.png" alt="Project Banner">
+  </br>
+</div>
+
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/Event_Page_Starter/blob/c07e59f2d1706648a2cd7ba8906d6e06bfddbbd9/Frame%2017.png" alt="Project Banner">
+  </br>
+</div>
+</br>
+
 This is a simple web scraping app built with Python, Flask, and BeautifulSoup. The app allows you to scrape data from a website and display the results on a web page.
 
 ## Getting Started
@@ -83,5 +98,13 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/Event_Page_Starter/blob/c07e59f2d1706648a2cd7ba8906d6e06bfddbbd9/Frame%2017.png" alt="Project Banner">
+  </br>
+</div>
+
 
 ---
