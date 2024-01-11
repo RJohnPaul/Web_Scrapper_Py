@@ -102,7 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/Event_Page_Starter/blob/c07e59f2d1706648a2cd7ba8906d6e06bfddbbd9/Frame%2017.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Web_Scrapper_Py/blob/dbd2c180df07cbc2e400384315b1b7feb1cd8b99/Frame%2019.png" alt="Project Banner">
   </br>
 </div>
 
